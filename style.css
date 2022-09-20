@@ -1,0 +1,41 @@
+body{
+  font-family: Century Gothic, Arial, sans-serif;
+  margin-left: 35px;
+  background-color: rgb(210,180,140, 0.7)
+}
+
+hr{
+  width: 700px;
+}
+
+.education-header{
+  font-size: 20px;
+  color: #800020
+}
+
+.experience-header{
+  font-size: 20px;
+  color: #800020
+}
+
+job duties, p{
+  line-height: 50%
+}
+
+.computer skills, h4{
+  font-size: 20px;
+  color: #800020
+}
+
+.columns{
+    float: right;
+    position: relative;
+    margin-right: 150px;
+    margin-top: -75px
+}
+
+footer{
+  color:white;
+  background-color: black;
+  width: 25%
+}
