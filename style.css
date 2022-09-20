@@ -4,13 +4,10 @@ body{
   background-color: rgb(210,180,140, 0.7)
 }
 
-hr{
-  width: 3000px;
-}
-
 .education-header{
   font-size: 20px;
   color: #800020
+  border-top: 1px solid #dddddd
 }
 
 .experience-header{
